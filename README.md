@@ -19,3 +19,5 @@ Since we are in development, follow these steps to install:
 
 ## ☕ Support the Mission
 If Velox Shield saved your time, consider supporting the project to help us get on the official Chrome Web Store!
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/velox_shield)
